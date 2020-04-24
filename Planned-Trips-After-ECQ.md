@@ -5,3 +5,4 @@ Planned Trips After ECQ
  - [ ] SamgyupSalamat
  - [ ] Cebu North - Bantayan
  - [ ] Visit Manila
+ - [ ] Mall
