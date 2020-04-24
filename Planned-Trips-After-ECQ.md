@@ -6,3 +6,4 @@ Planned Trips After ECQ
  - [ ] Cebu North - Bantayan
  - [ ] Visit Manila
  - [ ] Mall
+ - [ ] Beach
